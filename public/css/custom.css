@@ -1,0 +1,8 @@
+.select2-selection__choice {
+    background: #3f3fe3 !important;
+    color: #fff !important;
+}
+
+.select2-selection__choice__remove {
+    color: #fff !important;
+}

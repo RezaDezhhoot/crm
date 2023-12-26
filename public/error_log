@@ -1,0 +1,525 @@
+[24-Dec-2023 11:34:10 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:34:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:37:19 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:37:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:39:56 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:39:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:46:09 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[24-Dec-2023 11:46:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:30:58 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:30:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:33:57 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:33:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:34:41 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:34:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:35:33 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:35:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:35:43 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:35:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:51:51 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 14:51:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:09:45 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:09:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:12:00 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:12:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:26:22 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:26:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:27:37 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:27:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:28:41 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:28:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:37:40 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:37:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:39:29 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:39:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:57:23 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 15:57:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:04:27 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:17:04 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:17:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:18:20 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:18:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:22:40 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:22:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:23:18 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:23:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:24:22 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:24:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:56:57 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 16:56:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:12:02 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:12:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:21:32 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:21:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:25:55 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:25:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:26:21 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:26:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:27:33 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:27:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:28:08 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:28:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:29:59 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:29:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:35:39 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:35:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:38:53 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 17:38:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:11:25 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:11:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:15:56 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:15:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:16:12 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:16:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:18:02 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:18:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:20:34 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:20:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:04 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:09 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:41 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:50 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:29:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:30:51 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:30:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:33:23 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:33:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:35:13 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:35:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:35:26 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:35:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:36:49 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:36:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:39:08 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:39:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:39:29 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[25-Dec-2023 18:39:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 03:58:42 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 03:58:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:03:17 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:03:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:09:28 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:09:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:12:59 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:12:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:14:40 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:14:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:16:17 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:16:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:16:58 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:16:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:18:03 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:18:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:18:41 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:18:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:21:14 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:21:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:21:29 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:21:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:23:24 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:23:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:25:17 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:25:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:26:01 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:26:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:27:31 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:27:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:28:18 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:28:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:31:33 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:31:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:32:06 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:32:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:33:06 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:33:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:33:37 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:33:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:34:59 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:34:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:35:07 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:35:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:35:20 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:35:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:36:54 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:37:00 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:37:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:37:33 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:37:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:38:19 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:38:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:38:52 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:38:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:39:08 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:39:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:39:33 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:39:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:39:36 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:39:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:43:04 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:43:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:43:06 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:43:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:46:36 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:46:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:46:48 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:46:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:47:30 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:47:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:48:10 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:48:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:48:25 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:48:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:48:43 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:48:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:50:22 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:50:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:50:38 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:50:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:51:01 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:51:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:52:01 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:52:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:52:53 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:52:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:53:21 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:53:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:55:07 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:55:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:55:20 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:55:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:57:26 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:57:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:57:49 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:57:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:57:59 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:58:05 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 04:58:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 05:02:19 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 05:02:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 08:44:00 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 08:44:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 09:05:37 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 09:05:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 09:06:08 UTC] PHP Warning:  require(/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24
+[26-Dec-2023 09:06:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sorenagold/public_html/crm.sorenagold.com/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/sorenagold/public_html/crm.sorenagold.com/public/index.php on line 24

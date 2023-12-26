@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/shop/vendor/composer" />
+      <path value="$PROJECT_DIR$/shop/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/shop/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/shop/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/shop/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/shop/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/shop/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/shop/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/shop/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/shop/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/shop/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/shop/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/shop/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/broadcasting" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/shop/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/shop/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/shop/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/shop/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/shop/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/shop/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/shop/vendor/shetabit/multipay" />
+      <path value="$PROJECT_DIR$/shop/vendor/shetabit/payment" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/shop/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/shop/vendor/brick/math" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
